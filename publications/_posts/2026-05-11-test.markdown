@@ -1,8 +1,8 @@
 ---
 title:  "Functional Groups Are All You Need for Chemically Interpretable Molecular Property Prediction"
 date:   2026-05-11 00:00:00 +00:00
-image: /publications/images/paper2.jpg
-image_onhover: /publications/images/paper2.jpg
+image: /publications/images/paper2.png
+image_onhover: /publications/images/paper2.png
 author: "Roshan Balaji"
 authors: "Roshan Balaji, <strong>Joe Bobby</strong>, Nirav Bhatt"
 venue: "Journal of Chemical Information and Modeling, 2026"
