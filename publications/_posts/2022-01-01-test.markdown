@@ -1,8 +1,8 @@
 ---
 title:  "Chemistry Inspired Molecular Representation for Property Prediction"
 date:   2022-01-01 00:00:00 +00:00
-image: /publications/images/chemistry-inspired.jpg
-image_onhover: /publications/images/chemistry-inspired-hover.jpg
+image: /publications/images/paper1.png
+image_onhover: /publications/images/paper1.png
 author: "Guna Sekhar Gedela"
 authors: "Guna Sekhar Gedela, <strong>Joe Bobby</strong>, Nirav Bhatt"
 venue: "CODS-COMAD, 2022"
