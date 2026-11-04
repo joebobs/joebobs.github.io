@@ -1,17 +1,24 @@
 ---
-title:  "Title of the publication"
-date:   2021-07-13 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong><a href='https://vsimkus.github.io/academic-jekyll/'>John Doe</a></strong>"
-venue: "Venue"
+title:  "Chemistry Inspired Molecular Representation for Property Prediction"
+date:   2022-01-01 00:00:00 +00:00
+image: /publications/images/chemistry-inspired.jpg
+image_onhover: /publications/images/chemistry-inspired-hover.jpg
+author: "Guna Sekhar Gedela"
+authors: "Guna Sekhar Gedela, <strong>Joe Bobby</strong>, Nirav Bhatt"
+venue: "CODS-COMAD, 2022"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
+  @inproceedings{Gedela2022,
+    author = {Gedela, Guna Sekhar and Bobby, Joe and Bhatt, Nirav},
+    title = {Chemistry Inspired Molecular Representation for Property Prediction},
+    booktitle = {Proceedings of the 5th Joint International Conference on Data Science \& Management of Data (9th ACM IKDD CODS and 27th COMAD)},
+    series = {CODS-COMAD '22},
+    pages = {290--291},
+    year = {2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    doi = {10.1145/3493700.3493746}
   }
+links:
+  paper: https://doi.org/10.1145/3493700.3493746
 ---
-Brief description of the project.
+A molecular representation built on chemical functional groups, used to predict molecular properties and benchmarked against a state-of-the-art deep learning model.
