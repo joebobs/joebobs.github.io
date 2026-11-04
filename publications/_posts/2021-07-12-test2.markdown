@@ -1,19 +1,20 @@
 ---
-title:  "Another title of the publication"
-date:   2021-07-12 09:26:00 +00:00
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
-author: "John Doe"
-authors: "<strong>John Doe</strong>"
-venue: "Venue"
+title:  "Functional Groups Are All You Need for Chemically Interpretable Molecular Property Prediction"
+date:   2026-05-11 00:00:00 +00:00
+image: /publications/images/functional-groups.jpg
+image_onhover: /publications/images/functional-groups-hover.jpg
+author: "Roshan Balaji"
+authors: "Roshan Balaji, <strong>Joe Bobby</strong>, Nirav Bhatt"
+venue: "Journal of Chemical Information and Modeling, 2026"
 bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Another title of the publication},
-    year = {2021}
+  @article{Balaji2026,
+    author = {Balaji, Roshan and Bobby, Joe and Bhatt, Nirav},
+    journal = {Journal of Chemical Information and Modeling},
+    title = {Functional Groups Are All You Need for Chemically Interpretable Molecular Property Prediction},
+    volume = {66},
+    year = {2026},
+    doi = {10.1021/acs.jcim.5c02769}
   }
 links:
-  code: https://github.com/vsimkus/academic-jekyll
+  paper: https://doi.org/10.1021/acs.jcim.5c02769
 ---
-Brief description of another project.
